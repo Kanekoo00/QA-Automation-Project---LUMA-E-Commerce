@@ -41,7 +41,7 @@ cd QA-Automation-Project---LUMA-E-Commerce
 📦 QA-Automation-Project---LUMA-E-Commerce
  ┣ 📂 Tests/              → Test scripts (Pytest)
  ┣ 📂 Pages/              → Page Object Model (locators & actions)
- ┣ 📂 Utilities/          → Helper functions (Excel reader, config, etc.)
+ ┣ 📂 Utils/          → Helper functions (Excel reader, config, etc.)
  ┣ 📂 Reports/            → Test result reports (HTML / Allure / XML)
  ┣ 📜 conftest.py         → Test setup & fixtures
  ┣ 📜 requirements.txt    → Dependencies
