@@ -39,9 +39,10 @@ cd QA-Automation-Project---LUMA-E-Commerce
 ### 3️⃣ Project Structure
 ```
 📦 QA-Automation-Project---LUMA-E-Commerce
+ ┣ 📂 Data/               → Data Bank (Excel/Json)
  ┣ 📂 Tests/              → Test scripts (Pytest)
  ┣ 📂 Pages/              → Page Object Model (locators & actions)
- ┣ 📂 Utils/          → Helper functions (Excel reader, config, etc.)
+ ┣ 📂 Utils/              → Helper functions (Excel reader, config, etc.)
  ┣ 📂 Reports/            → Test result reports (HTML / Allure / XML)
  ┣ 📜 conftest.py         → Test setup & fixtures
  ┣ 📜 requirements.txt    → Dependencies
