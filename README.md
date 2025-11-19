@@ -155,6 +155,5 @@ Example:
 **Budi Octaviandy (Kaneko00)**  
 QA Automation Engineer | Python + Selenium | Data-Driven Framework
 
-📧 [LinkedIn / GitHub: Kaneko00](https://github.com/Kanekoo00)
-
+📧 [LinkedIn / GitHub: Kaneko00](https://www.linkedin.com/in/budi-octaviandy-56a4311a0/)
 ---
