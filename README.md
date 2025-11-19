@@ -76,17 +76,7 @@ pytest -v -m "not manual" --html=Reports/report.html --self-contained-html
 
 ---
 
-### 🧱 2️⃣ Generate JUnit XML Report (for CI/CD)
-If you plan to integrate this project with Jenkins, GitHub Actions, or GitLab CI/CD:
-```bash
-pytest -v -m "not manual" --junitxml=Reports/results.xml
-```
-- Output file: `Reports/results.xml`
-- This format is used by CI/CD tools for test result tracking.
-
----
-
-### 🌈 3️⃣ Generate Allure Report (Interactive Dashboard)
+### 🌈 2️⃣ Generate Allure Report (Interactive Dashboard)
 
 #### Install Allure Command-Line Tool
 If you haven’t installed Allure, run:
