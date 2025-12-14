@@ -90,9 +90,10 @@ pip install allure-pytest
 ```bash
 pytest -v -m "not manual" --alluredir=Reports/allure-results
 ```
+or
 ```bash
 python -m pytest -v -m "not manual" --alluredir=Reports/allure-results
-'''
+```
 #### Generate and View Allure Report
 ```bash
 allure serve Reports/allure-results
